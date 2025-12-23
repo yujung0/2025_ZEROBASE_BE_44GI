@@ -1,3 +1,5 @@
+package Part1;
+
 public class OperatorExample {
     public static void main(String[] args) {
         // 1. 산술 연산자 (사칙연산)

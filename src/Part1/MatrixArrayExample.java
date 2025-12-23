@@ -1,3 +1,5 @@
+package Part1;
+
 public class MatrixArrayExample {
     public static void main(String[] args) {
         // 문제 : 이차원 배열에 저장된 일차원 배열의 문자열을 조합해 하나의 문장을 만들어 보는 문제

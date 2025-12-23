@@ -1,3 +1,5 @@
+package Part1;
+
 public class TypeCastingExample {
     public static void main(String[] args) {
         // 1. 정수형 -> 실수형 형변환

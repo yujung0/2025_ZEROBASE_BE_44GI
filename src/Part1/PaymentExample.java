@@ -1,3 +1,5 @@
+package Part1;
+
 class Payment {
     void processPayment(int amount) {
         System.out.println("결제 처리 : " + amount + "원");

@@ -1,3 +1,5 @@
+package Part1;
+
 public class ArrayExample {
     public static void main(String[] args) {
         // 1. 배열

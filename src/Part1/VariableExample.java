@@ -1,3 +1,5 @@
+package Part1;
+
 public class VariableExample {
 
     static final int MAX_VALUE = 100;

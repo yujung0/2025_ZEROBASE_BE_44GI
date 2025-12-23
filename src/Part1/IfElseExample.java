@@ -1,3 +1,5 @@
+package Part1;
+
 public class IfElseExample {
     public static void main(String[] args) {
         // 1. if-else

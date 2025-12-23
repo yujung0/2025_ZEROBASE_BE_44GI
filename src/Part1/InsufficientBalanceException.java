@@ -1,3 +1,4 @@
+package Part1;
 
 // 사용자 정의 예외 클래스 (UncheckedException) - 컴파일단에서 체크 X
 public class InsufficientBalanceException extends RuntimeException {

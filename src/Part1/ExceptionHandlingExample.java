@@ -1,3 +1,5 @@
+package Part1;
+
 public class ExceptionHandlingExample {
     public static void main(String[] args) {
         // 1. try-catch

@@ -11,7 +11,6 @@ public class NumberInputHandler  {
             System.out.print("입력 : ");
             String input = scanner.nextLine().trim();
 
-
             if (input.equals("exit")) {
                 System.out.println("프로그램 종료");
                 break;
@@ -25,7 +24,6 @@ public class NumberInputHandler  {
             } finally {
                 System.out.println("finally 사용");
             }
-
         }
             scanner.close();
     }

@@ -1,10 +1,9 @@
 package Part2;
 
-import java.io.IOException;
 import java.util.Scanner;
 
 public class NumberInputHandler  {
-    public static void main(String[] args) {
+     static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("입력할 숫자. (종료 : exit)");
 

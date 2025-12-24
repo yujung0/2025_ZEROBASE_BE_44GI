@@ -3,7 +3,7 @@ package Part2;
 import java.util.HashMap;
 
 public class HashMapExample {
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
         HashMap<String, String> hashMap = new HashMap<>();
 
@@ -25,7 +25,7 @@ public class HashMapExample {
         System.out.println(hashMap.get("C"));
         System.out.println(hashMap.getOrDefault("C", "default"));
 
-        
+
 
 
     }
